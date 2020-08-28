@@ -1,0 +1,17 @@
+{
+  "welcome": {
+    "welcome": "Bienvenue!",
+    "welcomeSubtitle": "Ceci est votre jour de chance: vous n'avez pas à faire l'application à neuf!",
+    "typeName": "Entrez votre nom...",
+    "nextPage": "Page suivante"
+  },
+  "hello": {
+    "hello": "Bonjour {{name}}!"
+  },
+  "language": {
+    "switchTo": "Changer en anglais"
+  },
+  "error": {
+    "nameRequired": "Un nom est requis"
+  }
+}

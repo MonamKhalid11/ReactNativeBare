@@ -1,0 +1,39 @@
+{
+    "daysOfWeeks" :[
+        {
+            "id":1,
+            "name":"Sun",
+            "isSelected":false
+        },
+        {
+            "id":2,
+            "name":"Mon",
+            "isSelected":false
+        },
+        {
+            "id":3,
+            "name":"Tue",
+            "isSelected":true
+        },
+        {
+            "id":4,
+            "name":"Wed",
+            "isSelected":false
+        },
+        {
+            "id":5,
+            "name":"Thu",
+            "isSelected":false
+        },
+        {
+            "id":6,
+            "name":"Fri",
+            "isSelected":false
+        },
+        {
+            "id":7,
+            "name":"Sat",
+            "isSelected":false
+        }
+    ]
+}

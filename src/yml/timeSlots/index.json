@@ -1,0 +1,54 @@
+{
+    "timeOfDay" :[
+        {
+            "id":1,
+            "time":"6-9",
+            "dayTime":"MORNING",
+            "isSelected":false
+
+        },
+        {
+            "id":2,
+            "time":"9-12",
+            "dayTime":"LATE MORNING",
+            "isSelected":false
+
+        }, {
+            "id":3,
+            "time":"12-15",
+            "dayTime":"AFTERNOON",
+            "isSelected":true
+
+        }, {
+            "id":4,
+            "time":"15-18",
+            "dayTime":"LATE AFTERNOON",
+            "isSelected":false
+
+        }, {
+            "id":5,
+            "time":"18-21",
+            "dayTime":"EVENING",
+            "isSelected":false
+
+        }, {
+            "id":6,
+            "time":"21-24",
+            "dayTime":"LATE EVENING",
+            "isSelected":false
+
+        }, {
+            "id":7,
+            "time":"0-3",
+            "dayTime":"NIGHT",
+            "isSelected":false
+
+        }, {
+            "id":8,
+            "time":"3-6",
+            "dayTime":"LATE NIGHT",
+            "isSelected":false
+
+        }
+    ]
+}

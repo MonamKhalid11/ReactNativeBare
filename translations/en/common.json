@@ -1,0 +1,33 @@
+{
+  "welcome": {
+    "welcome": "Welcome!",
+    "welcomeSubtitle": "This is your lucky day: You don't have to do the app from scratch!",
+    "nextPage": "Next Page",
+    "typeName": "Type your name..."
+  },
+  "hello": {
+    "hello": "Hello {{name}}!"
+  },
+  "filter":{
+    "searchPlaceHolder":"What are you looking for?",
+    "Filters":"Filters",
+    "FilterDetails":"These are some of the filters people search most often",
+    "TypeOfWorkOut" :"Type of Workout",
+    "PriceRange" :"PriceRange",
+    "average":"The Average price session is $25",
+    "timeOfDay":"Time Of The Day",
+    "CoachLanguage":"Coach Language",
+    "English":"English",
+    "ShowAll":"Show All",
+    "ClearAll":"Clear All",
+    "APPLYFILTER":"APPLY FILTER",
+    "OfferCancellation":"Offer Cancellation"
+
+  },
+  "language": {
+    "switchTo": "Switch to French"
+  },
+  "error": {
+    "nameRequired": "Name is required"
+  }
+}

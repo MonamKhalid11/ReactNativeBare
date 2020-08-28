@@ -1,0 +1,6 @@
+module Pods_ReactNativeBare {
+  umbrella header "Pods-ReactNativeBare-umbrella.h"
+
+  export *
+  module * { export * }
+}

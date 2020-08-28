@@ -1,0 +1,25 @@
+{
+    "typeofwork" :[
+        {
+            "id":1,
+            "name":"Cardiovascular",
+            "isChecked":true
+        },
+        {
+            "id":2,
+            "name":"Strenght",
+            "isChecked":true
+        },
+        {
+            "id":3,
+            "name":"Flexibility",
+            "isChecked":false
+        },
+        {
+            "id":4,
+            "name":"Balance",
+            "isChecked":false
+        }
+    ]
+    
+}
